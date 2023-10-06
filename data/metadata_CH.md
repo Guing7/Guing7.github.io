@@ -40,7 +40,7 @@
 
 ### CV
 
-./data/Mingrui_s_CV.pdf
+./data/Mengxuan_s_CV.pdf
 
 ## Education
 
@@ -90,7 +90,7 @@ school1.png
 
 ##### Link
 
-coming soon...\
+coming soon...\\
 
 ##### Author
 
@@ -174,7 +174,7 @@ This investigation analyzed the morphology, structure, composition, and plasma s
 
 ###### PDF
 
-<https://www.sciencedirect.com/sdfe/reader/pii/S2238785423019476/pdf>\
+<https://www.sciencedirect.com/sdfe/reader/pii/S2238785423019476/pdf>\\
 
 ### Patent
 
@@ -310,7 +310,7 @@ CN114347716A;CN114347717A
 
 ###### VIDEO
 
-<https://www.bilibili.com/video/BV1qK4y1R7oF>\
+<https://www.bilibili.com/video/BV1qK4y1R7oF>
 
 #### 一种刚柔结合的仿人五指机械手爪
 
@@ -538,7 +538,7 @@ award4.jpg
 
 #### Image
 
-award1.jpg
+award1.png
 
 ### 北京工业大学 学习优秀奖学金（2018-2020）
 
@@ -581,10 +581,6 @@ award2.jpg
 - 研究工艺参数（激光、水射流等参数）与加工效率和加工质量之间的影响规律，形成成熟的特种材料特种加工的工艺参数优化方案；
 
 - 参与飞秒激光加工过程中材料去除机制的研究，采用多种静态和原位表征方法，从多个角度分析了空气和水中使用多脉冲飞秒激光烧蚀 SiC/SiC 复合材料的形貌、结构、组成和等离子体状态。
-
-#### Video
-
-<https://www.bilibili.com/video/BV1Zh4y1Z7sr/>
 
 #### ImageV
 
